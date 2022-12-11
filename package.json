@@ -1,0 +1,15 @@
+{
+  "name": "zero",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de um aplicativo Desktop através do Electron NODE.js",
+  "main": "tudojunto.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.3.1"
+  }
+}
